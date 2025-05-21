@@ -18,7 +18,7 @@ This repository demonstrates how to implement and use unit testing in Python usi
 
 ---
 
-## ✨ Features
+ ✨ ## Features
 
 * Example usage of Python's `unittest` module
 * Demonstrates assertion methods
@@ -26,14 +26,14 @@ This repository demonstrates how to implement and use unit testing in Python usi
 
 ---
 
-## 🛠️ Prerequisites
+ 🛠️ ## Prerequisites
 
 * Python 3.6 or later installed on your system
 * Basic knowledge of Python programming
 
 ---
 
-## 📦 Setup Instructions
+ 📦 ## Setup Instructions
 
 1. Clone the repository:
 
@@ -59,7 +59,7 @@ This repository demonstrates how to implement and use unit testing in Python usi
 
 ---
 
-## 📝 Writing Tests
+ 📝 ## Writing Tests
 
 The repository contains a test file `test_math_operations.py` that demonstrates unit testing of basic mathematical operations.
 
@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
 ---
 
-## ▶️ Running Tests
+ ▶️ ## Running Tests
 
 To run the tests, execute the following command:
 
@@ -123,7 +123,7 @@ python -m unittest discover
 
 ---
 
-## 🏆 Best Practices
+ 🏆 ## Best Practices
 
 1. **Isolate Tests:** Ensure tests don’t share state (use `setUp()` for fresh data).
 2. **Name Tests Clearly:** Method names should describe what they test (e.g., `test_add_negative_numbers`).
@@ -132,7 +132,7 @@ python -m unittest discover
 For more advanced features (e.g., parameterized tests, mocking), consider using the `unittest.mock` module or third-party libraries like `pytest`.
 
 ---
-## 🤝 Contributing
+ 🤝 ## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -144,13 +144,13 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
+ 📄 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 Acknowledgements
+ 🙌 ## Acknowledgements
 
 * Inspired by Python's official [unittest documentation](https://docs.python.org/3/library/unittest.html).
 
