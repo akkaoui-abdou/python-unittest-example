@@ -3,8 +3,8 @@
 This repository demonstrates how to implement and use unit testing in Python using the built-in `unittest` module. Unit tests ensure the correctness of individual units of code (e.g., functions or methods) and provide confidence in the reliability of your application.
 
 ---
-
- 📋 ## Table of Contents
+📋
+ ##  Table of Contents
 
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
@@ -18,7 +18,7 @@ This repository demonstrates how to implement and use unit testing in Python usi
 
 ---
 
- ✨ ## Features
+ ## ✨ Features
 
 * Example usage of Python's `unittest` module
 * Demonstrates assertion methods
@@ -26,7 +26,7 @@ This repository demonstrates how to implement and use unit testing in Python usi
 
 ---
 
- 🛠️ ## Prerequisites
+ ## 🛠️ Prerequisites
 
 * Python 3.6 or later installed on your system
 * Basic knowledge of Python programming
