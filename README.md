@@ -11,9 +11,10 @@ This repository demonstrates how to implement and use unit testing in Python usi
 3. [Setup Instructions](#setup-instructions)
 4. [Writing Tests](#writing-tests)
 5. [Running Tests](#running-tests)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
+6. [Best Practices](#best-practices)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -122,6 +123,15 @@ python -m unittest discover
 
 ---
 
+## 🏆 Best Practices
+
+1. **Isolate Tests:** Ensure tests don’t share state (use `setUp()` for fresh data).
+2. **Name Tests Clearly:** Method names should describe what they test (e.g., `test_add_negative_numbers`).
+3. **Test Edge Cases:** Include tests for invalid inputs, exceptions, and boundary conditions.
+
+For more advanced features (e.g., parameterized tests, mocking), consider using the `unittest.mock` module or third-party libraries like `pytest`.
+
+---
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
