@@ -7,7 +7,7 @@ This repository demonstrates how to implement and use unit testing in Python usi
  ## 📋 Table of Contents
 
 1. [Features](#✨-features)
-2. [Prerequisites](#%F0%9F%9B%A0%EF%B8%8F prerequisites)
+2. [Prerequisites](#%F0%9F%9B%A0%EF%B8%8F-prerequisites)
 3. [Setup Instructions](#%F0%9F%93%A6-setup-instructions)
 4. [Writing Tests](#%F0%9F%93%9D-writing-tests)
 5. [Running Tests](#%E2%96%B6%EF%B8%8F-running-tests)
